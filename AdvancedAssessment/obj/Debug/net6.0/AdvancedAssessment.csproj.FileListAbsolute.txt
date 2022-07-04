@@ -1,0 +1,15 @@
+D:\AdvancedAssessment\bin\Debug\net6.0\AdvancedAssessment.exe
+D:\AdvancedAssessment\bin\Debug\net6.0\AdvancedAssessment.deps.json
+D:\AdvancedAssessment\bin\Debug\net6.0\AdvancedAssessment.runtimeconfig.json
+D:\AdvancedAssessment\bin\Debug\net6.0\AdvancedAssessment.dll
+D:\AdvancedAssessment\bin\Debug\net6.0\AdvancedAssessment.pdb
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.csproj.AssemblyReference.cache
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.AssemblyInfoInputs.cache
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.AssemblyInfo.cs
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.csproj.CoreCompileInputs.cache
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.dll
+D:\AdvancedAssessment\obj\Debug\net6.0\refint\AdvancedAssessment.dll
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.pdb
+D:\AdvancedAssessment\obj\Debug\net6.0\AdvancedAssessment.genruntimeconfig.cache
+D:\AdvancedAssessment\obj\Debug\net6.0\ref\AdvancedAssessment.dll
